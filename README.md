@@ -8,4 +8,6 @@
 - Santiago Banol
 ![Tornado con la base al reves wuuuuu](tornadogifSBR.gif)
 
+- Sara Londoño
 
+![tornadito](https://github.com/Artbycat/LosGrandesCocineros/assets/93046247/65363f92-bcf0-4ff5-b5b4-ddfec2d6c058)
