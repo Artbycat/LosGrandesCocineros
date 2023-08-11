@@ -15,3 +15,5 @@
 -Felipe Aguilar Rodriguez
 
 ![tornado-Felipe Aguilar Rodriguez-000455829](https://github.com/Artbycat/LosGrandesCocineros/assets/81448632/427662c2-e898-47aa-b917-e03427705dfc)
+
+-David Marin Yepes
