@@ -21,3 +21,4 @@
 
 ## GIF EJERCICIO 2 RAYO LASER OSCURO
 
+![Ejercicio Rayo](https://github.com/Artbycat/LosGrandesCocineros/assets/93098655/ed54c72f-1037-48a1-9d57-6fe8fc0a2b30)
