@@ -38,9 +38,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Refraction_Texture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: d16e29b4bf024dd4e992e1cb637f090d, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: 5, y: 2}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -62,13 +62,13 @@ Material:
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Refraction_Strenght: 2.05
+    - _Refraction_Strenght: -0.36
     - _SrcBlend: 5
     - _Surface: 1
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.44811314, g: 0.9752752, b: 1, a: 0}
+    - _Color: {r: 0.44811308, g: 0.9752752, b: 1, a: 0}
     - _Speed: {r: 0.1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
