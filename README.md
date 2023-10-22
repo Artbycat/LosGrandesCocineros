@@ -81,6 +81,7 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
   ### GIF shader completo
   https://upbeduco-my.sharepoint.com/:i:/g/personal/catalina_quintana_upb_edu_co/EUwEXHpmii5DlNwKQAjWR94BCU8oOCbbfTbnrJna1xv72Q?e=9xZrAo
   ![WhatsApp Image 2023-10-22 at 16 19 07](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/1fce432e-7b42-4afc-8ed1-ea03e951e6d8)
+  ![WhatsApp Image 2023-10-22 at 16 20 16](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/08dd6f23-6d48-4134-8bee-de6e9c350048)
 
 
   ### Fotos
@@ -88,7 +89,6 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
     
   ![animación agua](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/09753607-96c6-4d31-8a19-26d89840215f)
   ![WhatsApp Image 2023-10-22 at 16 02 07](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/91c3ffc8-8545-438f-be4c-e808ec9b0112)
-  ![WhatsApp Image 2023-10-22 at 16 20 16](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/08dd6f23-6d48-4134-8bee-de6e9c350048)
 
   - Refracción
     
