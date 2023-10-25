@@ -126,6 +126,15 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
   -Profundidad de campo
   ![parte 2](https://github.com/Artbycat/LosGrandesCocineros/assets/81448632/ab223619-b874-4c9f-9a93-8690a4ce5c17)
 
+    - Sara Londoño
+    
+    - Aberración cromática
+  ![cromatico](https://github.com/Artbycat/LosGrandesCocineros/assets/93046247/701ae17c-6bc1-42dc-a865-a3e3600f913d)
+    - Profundidad de campo
+  ![profundidadgauss](https://github.com/Artbycat/LosGrandesCocineros/assets/93046247/646880a1-a8b9-4de4-9b4a-74ec672e4d2d)
+
+
+
   
   
 
