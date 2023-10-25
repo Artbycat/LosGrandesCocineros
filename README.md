@@ -137,7 +137,8 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
   - Catalina Quintana
  
     - Aberración cromática y blur
-    https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/6e57447f-3ad2-464b-b4f0-d8dbcfdc328f
+    https://clipchamp.com/watch/aIZChKv8fLx
+
 
 
   
