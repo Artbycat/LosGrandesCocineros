@@ -78,8 +78,8 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
 
   ## Shaders Agua
 
-  ### GIF shader completo
-  https://upbeduco-my.sharepoint.com/:i:/g/personal/catalina_quintana_upb_edu_co/EUwEXHpmii5DlNwKQAjWR94BCU8oOCbbfTbnrJna1xv72Q?e=9xZrAo
+  ### video shader completo
+   https://youtu.be/YQ6iuGfFByQ
   ![WhatsApp Image 2023-10-22 at 16 19 07](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/1fce432e-7b42-4afc-8ed1-ea03e951e6d8)
   ![WhatsApp Image 2023-10-22 at 16 20 16](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/08dd6f23-6d48-4134-8bee-de6e9c350048)
 
