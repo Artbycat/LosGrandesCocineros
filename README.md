@@ -138,6 +138,10 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
  
     - Aberración cromática y blur
     https://clipchamp.com/watch/aIZChKv8fLx
+ 
+ - Santiago Bañol
+  1. Aberración cromática y Blur de campo.
+    https://youtu.be/j-g9aHfJL8s
 
 
 
