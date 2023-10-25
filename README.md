@@ -115,4 +115,20 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
   ![WhatsApp Image 2023-10-22 at 16 18 12](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/789461bc-50f2-4aa7-ba8f-58be4e26778f)
   ![WhatsApp Image 2023-10-22 at 16 17 17](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/ba463254-8195-420d-bd50-c4756346f49b)
 
+
+  ## Actividad en clase #3: efectos de postprocesado
+
+  -Felipe Aguilar Rodriguez
+
+  -Aberración cromatica
+  ![parte 1](https://github.com/Artbycat/LosGrandesCocineros/assets/81448632/7194611b-69c7-421d-8bb9-261fc91bdf14)
+
+  -Profundidad de campo
+  ![parte 2](https://github.com/Artbycat/LosGrandesCocineros/assets/81448632/ab223619-b874-4c9f-9a93-8690a4ce5c17)
+
+  
+  
+
+  
+
     
