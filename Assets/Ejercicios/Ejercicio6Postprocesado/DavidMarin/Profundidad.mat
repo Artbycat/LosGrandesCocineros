@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: crom
-  m_Shader: {fileID: -6465566751694194690, guid: 24dc7f379b8d5e34fa4a11cbddd5802b, type: 3}
+  m_Name: Profundidad
+  m_Shader: {fileID: -6465566751694194690, guid: 606f51a6fb476ec4f9a38563c792e635, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,6 +23,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BlitTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_f7f4e374aade4e9ba2d9d6aab16a389d_Out_0_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -37,9 +45,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AbsolutePixelOffset: 26.77
-    - _Float: 169.08
-    m_Colors:
-    - _RelativeChannelOffset: {r: 1, g: -1.34, b: -0.22, a: 0}
-    - _Vector3: {r: 0.1, g: 0.3, b: 0.5, a: 0}
+    - _Apperture: 0
+    - _AppertureS: 0
+    - _Distancia: 0
+    - _Pixel: 0
+    m_Colors: []
   m_BuildTextureStacks: []

@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: crom
-  m_Shader: {fileID: -6465566751694194690, guid: 24dc7f379b8d5e34fa4a11cbddd5802b, type: 3}
+  m_Name: Aberracion
+  m_Shader: {fileID: -6465566751694194690, guid: d4f3bdf05e53e1c41a4caae3b4cb47ab, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,9 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AbsolutePixelOffset: 26.77
-    - _Float: 169.08
+    - _Cromatic: 0
     m_Colors:
-    - _RelativeChannelOffset: {r: 1, g: -1.34, b: -0.22, a: 0}
-    - _Vector3: {r: 0.1, g: 0.3, b: 0.5, a: 0}
+    - _Profundidad: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
