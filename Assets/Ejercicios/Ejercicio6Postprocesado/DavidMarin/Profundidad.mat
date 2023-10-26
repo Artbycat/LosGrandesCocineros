@@ -48,6 +48,7 @@ Material:
     - _Apperture: 0
     - _AppertureS: 0
     - _Distancia: 0
-    - _Pixel: 0
+    - _Pixel: 4.83
+    - _blur: 0
     m_Colors: []
   m_BuildTextureStacks: []
