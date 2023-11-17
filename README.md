@@ -163,6 +163,8 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
 
    - Sara Londoño
 
+     ![image](https://github.com/Artbycat/LosGrandesCocineros/assets/93046247/3e1f9e05-a000-4015-af6d-6f1742e97e5d)
+
      https://youtu.be/E7gAmFmKBv0?si=oEaMNpt0xjBG8-Mt
 
    - David Marin
