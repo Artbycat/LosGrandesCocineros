@@ -145,7 +145,13 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
 
 
 
-  
+  ## Entrega final: Referencias
+
+  -Felpe AGuilar Rodriguez 
+
+  https://www.youtube.com/watch?v=bkxUM_IzI3M
+
+  https://www.youtube.com/watch?v=9RjIk52GqEc
   
 
   
