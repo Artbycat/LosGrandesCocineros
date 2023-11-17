@@ -155,8 +155,9 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
 
   - Catalina Quintana
   - 
-    ([url](https://static.wixstatic.com/media/1bd2e6_a3de0194450e485993b20ebff018af11~mv2.gif))
-    ([url](https://giphy.com/gifs/Tongal-tongal-eKvmmOOJsVs1kk4Fd5))
+    ![giphy](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/3cde48f2-9e25-45b2-8192-69ab822cc7a4)
+
+    ![1bd2e6_a3de0194450e485993b20ebff018af11~mv2](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/e881e2c1-40b0-403a-9708-37cf7d39f88b)
 
     ![dof-comparison3](https://github.com/Artbycat/LosGrandesCocineros/assets/64057988/86250362-c7ab-437f-a3ea-bf716e627b81)
 
