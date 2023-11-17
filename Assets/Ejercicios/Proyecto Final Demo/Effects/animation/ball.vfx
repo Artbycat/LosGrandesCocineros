@@ -102,7 +102,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":3.4308688640594484,"g":34.489253997802737,"b":30.29392433166504,"a":0.0}'
+      m_SerializableObject: '{"r":33.86191940307617,"g":6.132343769073486,"b":37.357967376708987,"a":0.0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -2641,7 +2641,7 @@ MonoBehaviour:
   zTestMode: 0
   useAlphaClipping: 0
   generateMotionVector: 0
-  excludeFromTAA: 0
+  excludeFromTUAndAA: 0
   sortingPriority: 0
   m_SubOutputs: []
   colorMapping: 0
@@ -3276,7 +3276,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":3.4308688640594484,"g":34.489253997802737,"b":30.29392433166504,"a":0.0}'
+      m_SerializableObject: '{"r":33.86191940307617,"g":6.132343769073486,"b":37.357967376708987,"a":0.0}'
     m_Space: 2147483647
   m_Property:
     name: o
@@ -6405,7 +6405,7 @@ MonoBehaviour:
   zTestMode: 0
   useAlphaClipping: 0
   generateMotionVector: 0
-  excludeFromTAA: 0
+  excludeFromTUAndAA: 0
   sortingPriority: 0
   m_SubOutputs: []
   colorMapping: 0
@@ -8755,7 +8755,7 @@ MonoBehaviour:
   zTestMode: 0
   useAlphaClipping: 0
   generateMotionVector: 0
-  excludeFromTAA: 0
+  excludeFromTUAndAA: 0
   sortingPriority: 0
   m_SubOutputs: []
   colorMapping: 0

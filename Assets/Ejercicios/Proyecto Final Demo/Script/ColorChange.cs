@@ -4,16 +4,17 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.VFX;
 
-public class ColoCHange : MonoBehaviour
+public class ColorChange : MonoBehaviour
 {
-    
-    [SerializeField] VisualEffect vf;
-
+   
     [SerializeField] Material material;
+
+    [SerializeField] Material material2;
+
+    [SerializeField] Material material3;
 
     [SerializeField] RawImage rawImage;
 
-    VFXEventAttribute vfxEventAttribute;
 
     Slider slider;
 
@@ -23,21 +24,17 @@ public class ColoCHange : MonoBehaviour
 
     }
 
-    private void Start() {
-        
-        vfxEventAttribute = vf.CreateVFXEventAttribute();
-
-    }
     private void Update() {
 
         material.SetColor("_Color", Color.HSVToRGB(slider.value, 1, 1));
 
-        vf.SetVector4("Color", material.GetColor("_Color"));
+        material2.SetColor("_Color", Color.HSVToRGB(slider.value, 1, 1));
+
+        material3.SetColor("_Color", Color.HSVToRGB(slider.value, 1, 1));
+        
 
         rawImage.color = material.GetColor("_Color");
 
         
     }
-
-   
 }
