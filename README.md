@@ -147,7 +147,7 @@ Recopilación https://clipchamp.com/watch/nsxd0QIPB4V
 
   ## Entrega final: Referencias
 
-  -Felpe AGuilar Rodriguez 
+  -Felipe Aguilar Rodriguez 
 
   https://www.youtube.com/watch?v=bkxUM_IzI3M
 
